@@ -1,0 +1,11 @@
+{
+	"name": "A Rythm Ethic",
+	"short_name": "ARE",
+	"start_url": "/",
+	"display": "standalone",
+	"theme_color": "#424874",
+	"background_color": "#424874",
+	"icons": [
+	]
+  }
+  
